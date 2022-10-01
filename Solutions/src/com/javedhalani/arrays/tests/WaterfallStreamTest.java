@@ -1,4 +1,4 @@
-package com.javedhalani.tests.arrays;
+package com.javedhalani.arrays.tests;
 
 import com.javedhalani.arrays.WaterfallStream;
 import org.junit.jupiter.api.Test;
